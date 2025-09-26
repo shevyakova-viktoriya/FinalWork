@@ -20,13 +20,7 @@ typedef struct {
 } Snake;
 
 // Глобальные переменные
-Snake snake;
-Point food;
-int score;
-int game_over;
-int delay_ms; // Задержка для скорости игры
-int grow_shrink_counter; // Счетчик для роста/уменьшения
-int color_scheme; // Цветовая палитра
+
 
 // Прототипы функций
 void init_game();
