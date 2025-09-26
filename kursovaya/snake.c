@@ -8,7 +8,7 @@
 
 // Координаты
 typedef struct {
-    int x;
+    int x1;
     int y;
 } Point;
 
